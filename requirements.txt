@@ -1,0 +1,7 @@
+python==3.7.10
+numpy==1.19.2
+pandas==1.12.3
+scipy==1.6.0
+tqdm==4.59.0
+cppimport==21.3.7
+torch==1.8.1
