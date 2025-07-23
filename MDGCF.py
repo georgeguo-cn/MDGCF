@@ -1,7 +1,7 @@
 """
 
 Created on May 17, 2022
-Implementation of TopicVAE in
+Implementation of MDGCF in
 Zhiqiang Guo et al. MDGCF: Multi-Dependency Graph Collaborative Filtering with Neighborhood- and Homogeneous-level Dependencies
 
 @author: Zhiqiang Guo (zhiqiangguo@hust.edu.cn)
